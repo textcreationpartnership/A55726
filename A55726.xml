@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The presentment and articles proposed by the grand jury of the county of York and the declaration of the nobility, grand jury and gentry of the said county: at the assises assembled in August, 1642. With His Majesties answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55726</idno>
+            <idno type="STC">Wing P3278A</idno>
+            <idno type="STC">ESTC R206425</idno>
+            <idno type="EEBO-CITATION">99825391</idno>
+            <idno type="PROQUEST">99825391</idno>
+            <idno type="VID">29773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2095:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The presentment and articles proposed by the grand jury of the county of York and the declaration of the nobility, grand jury and gentry of the said county: at the assises assembled in August, 1642. With His Majesties answer thereunto.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I). His Majesties answer to the presentment and articles, proposed by the Grand Jury.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Barker, printer to the Kings most excellent Majesty: and by the assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library, Cambridge, Mass.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>York (England) --  History --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29773:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <p>THE PRESENTMENT AND ARTICLES Propoſed by the GRAND JURY of the COVNTY of YORK: And the Declaration of the Nobility, Grand Jury and Gentry of the ſaid COVNTY: At the Aſſiſes aſſembled in <hi>Auguſt,</hi> 1642.</p>
+            <p>With His MAJESTIES Anſwer thereunto.</p>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſty: And by the Aſſignes of JOHN BILL, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:29773:2"/>
+            <!-- PDF PAGE 81 -->
+            <pb n="1" facs="tcp:29773:2"/>
+            <!-- PDF PAGE 81 -->
+            <head>The Preſentment of the Grand Jurie now aſſem<g ref="char:EOLhyphen"/>bled at the Asſizes at <hi>Yorke,</hi> Auguſt <hi>1642.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HAT having taken into conſideration your Majeſties gracious expreſſions to us, and our whole Country, in your ſpeech of the fourth of this inſtant</hi> Au<g ref="char:EOLhyphen"/>guſt, <hi>whereby you were pleaſed to de<g ref="char:EOLhyphen"/>clare your deſire to afford us your aſſi<g ref="char:EOLhyphen"/>ſtance for the neceſſary defence of this County, in theſe time of imminent danger, in ſuch manner, as we for our defence ſhould propoſe, And to finde ſome way to fix a marke of favour and eſtimation upon us; We ha<g ref="char:EOLhyphen"/>ving taken the ſame into our thoughts, have unanimouſ<g ref="char:EOLhyphen"/>ly concluded upon the Propoſitions hereto annexed, which we preſume, humbly to preſent to your Royall conſideration.</hi>
+            </p>
+            <p>
+               <hi>And foraſmuch as we finde that the ſumme of eight thouſand ſix hundred and forty pounds two ſhillings and ſix pence, is neceſſary for our preſent defence; we moſt humbly beſeech your Majeſty, out of your Prince<g ref="char:EOLhyphen"/>ly Wiſedome, to direct ſome ſuch courſe, whereby the
+<pb n="2" facs="tcp:29773:3"/>
+                  <!-- PDF PAGE 82 -->ſame may be ſpeedily provided. And for that (in re<g ref="char:EOLhyphen"/>ſpect of your Majeſties ſpeedy departure out of theſe parts) ſuch immergent occaſions may happen, as will admit of no delay: We likewiſe beſeech your Majeſty, That the ſame ſupplies, and all Warrants and Commiſ<g ref="char:EOLhyphen"/>ſions, mentioned in our Propoſitions to be neceſſary for this ſervice, may be iſſued out with all convenient expedition.</hi>
+            </p>
+            <list>
+               <item n="1">
+                  <hi>1.</hi> It is held fit, That upon the foure and twentieth of this inſtant, there be an exact Mu<g ref="char:EOLhyphen"/>ſter of all the Horſe of the Trained Bands at <hi>York,</hi> at the Mannor, by ten of the Clock in the Morning; and that the Defaulters be ſeverely proceeded againſt: And to this purpoſe, A Com<g ref="char:EOLhyphen"/>miſſion is to iſſue out inſtantly to the Officers, and Warrants to be directed to the Chief Conſtables to ſummon accordingly: And it is to be inſerted into the Warrant, That this meeting is to be for the Defence, Peace and Quiet of the County.</item>
+               <item n="2">
+                  <hi>2.</hi> It is likewiſe reſolved, That the Perſons charged with the Trained Horſe, ſhall be deſi<g ref="char:EOLhyphen"/>red to maintain their Men and Horſe, for one Moneth, from the foure and Twentieth of this inſtant.</item>
+               <item n="3">
+                  <hi>3.</hi> That His Majeſty may be humbly deſi<g ref="char:EOLhyphen"/>red
+<pb n="3" facs="tcp:29773:3"/>
+                  <!-- PDF PAGE 82 -->to appoint Sir <hi>Thomas Glemham</hi> Lievte<g ref="char:EOLhyphen"/>nant Colonell, <hi>Henry Waite</hi> and Captain <hi>Minne,</hi> to attend the Service of this County.</item>
+               <item n="4">
+                  <hi>4.</hi> That a Commiſſion of Oyer and Termi<g ref="char:EOLhyphen"/>ner, and Gaole Delivery be ſetled at <hi>York,</hi> to be directed to all the Commiſſioners of Array, and Sir <hi>William Dalton,</hi> Sir <hi>William Belt,</hi> Sir <hi>William Wentworth,</hi> and Sir <hi>Thomas Har<g ref="char:EOLhyphen"/>riſon,</hi> to be of the <hi>Quorum,</hi> with the reſt of the <hi>Quorum</hi> in the Commiſſion of Array.</item>
+               <item n="5">
+                  <hi>5.</hi> That ſuch a Power be given to the Earl of <hi>Cumberland,</hi> as His Majeſty ſhall hold fit, for His Honour and our Security: And, That the Earl of <hi>Cumberland</hi> may continue his Troop here, to attend Him, during ſuch time as it ſhall be neceſſary to employ them here.</item>
+               <item n="6">
+                  <hi>6.</hi> That His Majeſty would be pleaſed to leave here ſo many field Pieces, as His occaſions can ſpare, with neceſſary proviſions and Canno<g ref="char:EOLhyphen"/>neers: And that ſuch Ammunition be reſtored to the County, as hath been taken out of the Maga<g ref="char:EOLhyphen"/>zine for His Majeſties uſe, as alſo the Arms of the Trained Bands of the County, which were lately brought to <hi>York.</hi>
+               </item>
+               <item n="7">
+                  <hi>7.</hi> That His Majeſty may be humbly moved
+<pb n="4" facs="tcp:29773:4"/>
+                  <!-- PDF PAGE 83 -->to give the Wardſhips of ſuch Gentlemens Sons and others, as ſhall dye in His Service, or in De<g ref="char:EOLhyphen"/>fence of the County.</item>
+               <item n="8">
+                  <hi>8.</hi> That the Earl of <hi>Cumberland</hi> ſhall re<g ref="char:EOLhyphen"/>ceive the Magazine of the County, for the She<g ref="char:EOLhyphen"/>riffe, as he may be charged with it.</item>
+               <item n="9">
+                  <hi>9.</hi> That His Majeſty may be pleaſed upon the ſetting up of His Royall ſtandard, to diſpence with the appearance of ſuch Perſons of this County, as either aſſiſt His Majeſty in His Wars, or contribute to the Defence of this County.</item>
+            </list>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:29773:4"/>
+            <!-- PDF PAGE 83 -->
+            <head>The Declaration of the Nobility, the Grand Jurie and Gentry of the County of <hi>York,</hi> at the Aſſiſes Aſſembled in <hi>Auguſt, 1642.</hi>
+            </head>
+            <p>WE the Inhabitants of the County of <hi>York,</hi> conceiving it neceſſary to ſhew the Reaſons of our Reſolutions, for the putting our Selves and Country into a Poſture of Defence under His Majeſties gracious protection do declare, That,</p>
+            <p>Our ſufferings in the late Billited Souldiery, and in the late Publike charges, might give us good reaſon to expect better, then to have heavier Burthens impoſed upon us.</p>
+            <p>The Town of <hi>Hull</hi> (the chiefe Port of our Trading) under Garriſon, to the deſtruction of our Traffick, His Majeſty diſpoſſeſſed of His Magazine there, many ho<g ref="char:EOLhyphen"/>ſtile Acts committed, even to the effuſion of Blood; And to add to our miſeries, the Head forced from the body by Tumults, and many Members of both Houſes (Perſons of reall Fortunes and known integrity) have withdrawn themſelves, conceiving many things to be done againſt the Freedom of Parliaments, and all ſub<g ref="char:EOLhyphen"/>ject to contrary Commands, tending to Arbitrary Go<g ref="char:EOLhyphen"/>vernment, and Deſtructive to Monarchy.</p>
+            <pb n="6" facs="tcp:29773:5"/>
+            <!-- PDF PAGE 84 -->
+            <p>In redreſſe whereof, we have humbly expreſſed our grievances to both Houſes of Parliament, by Meſſen<g ref="char:EOLhyphen"/>gers of quality, one whereof is Impriſoned.</p>
+            <p>This being our condition, we are forced to reſort to His Majeſty for ſuch naturall waies as conduce to the preſervation of our Selves, Wives, and Fortunes.</p>
+            <p>Our thoughts tend no further, then to the Defence of the true Proteſtant Religion in oppoſition to Po<g ref="char:EOLhyphen"/>pery and Schiſmaticall Innovations, our known Laws, His Majeſties Rights and due Prerogatives, againſt all unlawfull Vores and Ordinances, though under colour of Religion, or any other pretence (how ſpecious ſoe<g ref="char:EOLhyphen"/>ver) the Juſt Priviledges of Parliaments; the Rights, Priviledges, and Properties of the Subject. And this we declare to all the World, being confident of His Majeſties gracious Protection of us in theſe our Juſt and neceſſary Reſolutions.</p>
+         </div>
+         <div type="part">
+            <pb n="7" facs="tcp:29773:5"/>
+            <!-- PDF PAGE 84 -->
+            <head>His Majeſties Anſwer to the preſentment and Ar<g ref="char:EOLhyphen"/>ticles, propoſed by the Grand Jury, and the Declaration of the Nobility, the Grand Ju<g ref="char:EOLhyphen"/>ry and Gentry of the County of <hi>York,</hi> at the Aſsiſes Aſſembled in <hi>Auguſt, 1642.</hi>
+            </head>
+            <p>HIs Majeſtie very well approves of the firſt and ſecond Articles, and hath already given Order for the third and fourth Articles as is de<g ref="char:EOLhyphen"/>ſired.</p>
+            <p>The Earl of <hi>Cumberlands</hi> Commiſſion is al<g ref="char:EOLhyphen"/>ready granted, as is deſired; And as for the Troop, His Majeſty is content it ſhould ſtay here, as is deſired, but expects, That the reſt of thoſe Troops be haſtned to His Majeſtie with all expedition; and that this which ſtaies, ſhould countenance and protect His Magazine going from hence: And in caſe in His abſence, any more Munition come from <hi>Holland,</hi> That they, together with the Trai<g ref="char:EOLhyphen"/>ned Bands, ſhould ſecure it to the edge of <hi>Yorkeſhire,</hi> towards <hi>Notingham.</hi>
+            </p>
+            <pb n="8" facs="tcp:29773:6"/>
+            <!-- PDF PAGE 85 -->
+            <p>His Majeſty hath ſo few field pieces, That His Majeſtie cannot promiſe that He will lend them any; But hath given Order to His Officers of the Artillery, to reſtore ſo much of the Munition of the County, as He hath made uſe of.</p>
+            <p>His Majeſty doth willingly promiſe, freely to give the Wardſhips of all their Sons, who ſhall be killed in His Majeſties Service, or in the Defence of the County.</p>
+            <p>His Majeſty fully conſents to the eighth and ninth.</p>
+            <p>His Majeſty withall, declares Himſelf to receive great ſatisfaction, from the Af<g ref="char:EOLhyphen"/>fection, Courage, and Loyaltie of this Coun<g ref="char:EOLhyphen"/>ty, and doth promiſe them, That ſince they are reſolved upon ſo ſtrong, and ſo evident In<g ref="char:EOLhyphen"/>ducements, to take care of His Majeſties and their own preſervation, and neither to deſert Him, nor themſelves; That He will be as carefull of their ſafety, as they can be, and will either protect them (which by Gods Grace He doubts not) or Periſh with them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
